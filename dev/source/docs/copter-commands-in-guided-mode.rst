@@ -102,7 +102,7 @@ message.
 (Copter 3.3)
 
 `MAV_CMD_GET_HOME_POSITION <http://mavlink.org/messages/common#MAV_CMD_GET_HOME_POSITION>`__
-(Copter 3.3)
+(Copter 3.4)
 
 `MAV_CMD_DO_START_MAG_CAL <http://mavlink.org/messages/ardupilotmega#MAV_CMD_DO_START_MAG_CAL>`__
 (Master - not in Copter 3.3)
